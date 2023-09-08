@@ -2,3 +2,16 @@
     font-size: xx-large;
     font-weight: 800;
 }
+
+.jt-icon-text {
+    font-family: "Lucida Bright", Georgia, serif;
+    font-weight: 400;
+    color: cyan
+}
+
+.jt-icon-text-cap {
+    font-family: "Lucida Bright", Georgia, serif;
+    font-weight: 600;
+    margin-right: 5px;
+    color: orangered;
+}
